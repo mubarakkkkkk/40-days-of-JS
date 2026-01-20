@@ -23,3 +23,11 @@ console.log(CTC);
 // Traffic Light Simulation
 const color = "green";
  color === "green" ? console.log("Go") : color === "red" ? console.log("stop") : console.log("invalid")
+
+ // Electricity Bill Calculator
+ const units = 10;
+unitPricePerMonth = 150 * 30;
+console.log(unitPricePerMonth);
+
+
+
